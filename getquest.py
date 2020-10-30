@@ -98,7 +98,7 @@ def start(name, f_value, _type, icon):
 def main():
     # parser = argparse.ArgumentParser(description="獲取迷你龍任務座標")
 
-    start("迷你龍任務座標", "7^147^^^Y^^^N", QUEST, "https://twpkinfo.com/images/poke1/147.png")
+    start("每日迷你龍任務座標", "7^147^^^Y^^^N", QUEST, "https://twpkinfo.com/images/poke1/147.png")
     # start("攻-防-體-寶可夢座標", [10, 10, 10], POKE,
     #       "https://twpkinfo.com/images/ipoke.png")
     # start("攻-防-體-寶可夢座標", 90, POKE,
